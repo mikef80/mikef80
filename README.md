@@ -1,9 +1,11 @@
+<div id="header" align="center">
+  <img src="./githubgraph.png" width="100%"/>
+</div>
+
 <div align="center">
     <img src="https://skillicons.dev/icons?i=js,html,css,react,redux,git">
 </div>
-<!-- <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div> -->
+
 <!-- <h1 align="center">Mike Francis</h1> -->
 
 <div id="badges" align="center">
