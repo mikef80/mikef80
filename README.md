@@ -24,13 +24,5 @@ I'm an aspiring web developer and avid coder. When I'm not busy with work or fam
 
 ### What I'm building
 
-<table width="100%">
-    <tr>
-        <td align="center" style="border:1px solid red;">test</td>
-        <td align="center" style="border:1px solid red;">test</td>
-        <td align="center" style="border:1px solid red;">test</td>
-    </tr>
-</table>
-
 - I recently built a Wordle! spinoff called [Colourdle!](http://colourdle.co.uk). It appears to have inspired others to build their own take on the game!
 
