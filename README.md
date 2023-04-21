@@ -30,4 +30,4 @@ When I'm not busy with work or family, I can usually be found attached to my com
 
 - I recently built a Wordle! spinoff called [Colourdle!](http://colourdle.co.uk). It appears to have inspired others to build their own take on the game! I plan to revisit this and try rebuilding it as a React PWA.
 - I've just developed my first Chrome extension, designed to hide archived repositories from view on GitHub.
-- I currently building a Radiation Calculator app, designed to calculate safe exposure durations to radiation by emergency service workers, such as Paramedics. The idea for this came from my time as a HART Paramedic.
+- I'm currently building a Radiation Calculator app, designed to calculate safe exposure durations to radiation by emergency service workers, such as Paramedics. The idea for this came from my time as a HART Paramedic.
