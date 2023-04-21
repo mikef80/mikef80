@@ -22,9 +22,12 @@
 
 ## Hi, I'm Mike 👋
 
-I'm an aspiring web developer and avid coder. When I'm not busy with work or family, I can usually be found attached to my computer, either trying to make or learn something!
+I'm a web developer and avid coder. I primarily use React and Redux, though I'm always happy dabbling in other technologies.
+
+When I'm not busy with work or family, I can usually be found attached to my computer, either trying to make or learn something!
 
 ### What I'm building
 
-- I recently built a Wordle! spinoff called [Colourdle!](http://colourdle.co.uk). It appears to have inspired others to build their own take on the game!
-
+- I recently built a Wordle! spinoff called [Colourdle!](http://colourdle.co.uk). It appears to have inspired others to build their own take on the game! I plan to revisit this and try rebuilding it as a React PWA.
+- I've just developed my first Chrome extension, designed to hide archived repositories from view on GitHub.
+- I currently building a Radiation Calculator app, designed to calculate safe exposure durations to radiation by emergency service workers, such as Paramedics. The idea for this came from my time as a HART Paramedic.
