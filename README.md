@@ -21,6 +21,6 @@ When I'm not busy with work or family, I can usually be found attached to my com
 ### What I'm building
 
 - I recently built a Wordle! spinoff called [Colourdle!](http://colourdle.co.uk). It appears to have inspired others to build their own take on the game! I plan to revisit this and try rebuilding it as a React PWA.
-- I've just developed my first Chrome extension, <a href="https://chrome.google.com/webstore/detail/repohide/fmpfklaenlcnjihhloamfleddplocjem?hl=en-GB" target="_blank">RepoHide</a>, designed to hide archived repositories from view on GitHub.
+- I've just developed my first Chrome extension, <a href="https://chrome.google.com/webstore/detail/repohide/fmpfklaenlcnjihhloamfleddplocjem?hl=en-GB">RepoHide</a>, designed to hide archived repositories from view on GitHub.
 - I'm currently building a Radiation Calculator app, <a href="https://bespoke-biscotti-5e6f7d.netlify.app/">RPSTools</a>, designed to calculate safe exposure durations to radiation by emergency service workers, such as Paramedics. The idea for this came from my time as a HART Paramedic.
 - I'm creating a shopping companion app to be used at my local zero-waste shop - Lemon & Jinja. This is a work-in-progress and can be found <a href="https://celadon-marzipan-44bc39.netlify.app/list">here</a>.
