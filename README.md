@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,redux,git">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,express,nodejs,postgres">
 </div>
 
 <div id="badges" align="center">
