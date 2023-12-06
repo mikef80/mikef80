@@ -12,15 +12,19 @@
   </a>
 </div>
 
-## Hi, I'm Mike 👋
+# Hi, I'm Mike 👋
 
-I'm a web developer and avid coder. I primarily use React and Redux, though I'm always happy dabbling in other technologies.
+I'm a Junior Fullstack Developer. I'm currently completing the Software Development bootcamp with [Northcoders](https://northcoders.com/our-courses/skills-bootcamp-in-software-development), due to finish in January 2024!
 
-When I'm not busy with work or family, I can usually be found attached to my computer, either trying to make or learn something!
+## Projects
 
-### What I'm building
+As a part of bootcamp, I have created some portfolio projects to showcase my work. These will be expanded on completion of further projects:
 
-- I recently built a Wordle! spinoff called [Colourdle!](http://colourdle.co.uk). It appears to have inspired others to build their own take on the game! I plan to revisit this and try rebuilding it as a React PWA.
-- I've just developed my first Chrome extension, <a href="https://chrome.google.com/webstore/detail/repohide/fmpfklaenlcnjihhloamfleddplocjem?hl=en-GB">RepoHide</a>, designed to hide archived repositories from view on GitHub.
-- I'm currently building a Radiation Calculator app, <a href="https://bespoke-biscotti-5e6f7d.netlify.app/">RPSTools</a>, designed to calculate safe exposure durations to radiation by emergency service workers, such as Paramedics. The idea for this came from my time as a HART Paramedic.
-- I'm creating a shopping companion app to be used at my local zero-waste shop - Lemon & Jinja. This is a work-in-progress and can be found <a href="https://celadon-marzipan-44bc39.netlify.app/list">here</a>.
+- I've created a News API using Node, Express and PostgreSQL. This backend will shortly be powering my frontend project! The repo can be found [here](https://github.com/mikef80/be-nc-news).
+
+<br />
+
+I have been coding for a lot longer than I've been on the bootcamp, so feel free to dig around my repos to see what else I've created.  A couple of earlier projects that I hope to revisit one day are:
+- [Colourdle!](https://github.com/mikef80/colourdle) - my Wordle-inspired spinoff!
+- [RepoHide](https://github.com/mikef80/hide-github-repos) - a Chrome extention to hide archived repos
+- [Shopping Companion PWA](https://github.com/mikef80/lemon-and-jinja) - an installable React-Redux PWA that is a shopping companion app. Designed to be installable, work offline and have persistent storage.
