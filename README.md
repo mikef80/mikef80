@@ -14,13 +14,15 @@
 
 # Hi, I'm Mike 👋
 
-I'm a Junior Fullstack Developer. I'm currently completing the Software Development bootcamp with [Northcoders](https://northcoders.com/our-courses/skills-bootcamp-in-software-development), due to finish in January 2024!
+I'm a Junior Fullstack Developer. I've recently completed a Software Development bootcamp with [Northcoders](https://northcoders.com/our-courses/skills-bootcamp-in-software-development) in January 2024!
 
 ## Projects
 
 As a part of bootcamp, I have created some portfolio projects to showcase my work. These will be expanded on completion of further projects:
 
-- I've created a News API using Node, Express and PostgreSQL. This backend will shortly be powering my frontend project! The repo can be found [here](https://github.com/mikef80/be-nc-news).
+- I've created a News API using Node, Express and PostgreSQL. The repo can be found [here](https://github.com/mikef80/be-nc-news).
+- I've created a frontend React app to accompany my News API. The repo can be found [here](https://github.com/mikef80/fe-nc-news).
+- I've been a part of a 6-person team that created a React Native app, powered by a MongoDB backend. This was for our final project. The frontend repo can be found [here](https://github.com/mikef80/quotesnap-fe) and the backend repo can be foudn [here](https://github.com/mikef80/quotesnap-be).
 
 <br />
 
