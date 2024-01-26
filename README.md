@@ -22,7 +22,9 @@ As a part of bootcamp, I have created some portfolio projects to showcase my wor
 
 - I've created a News API using Node, Express and PostgreSQL. The repo can be found [here](https://github.com/mikef80/be-nc-news).
 - I've created a frontend React app to accompany my News API. The repo can be found [here](https://github.com/mikef80/fe-nc-news).
-- I've been a part of a 6-person team that created a React Native app, powered by a MongoDB backend. This was for our final project. The frontend repo can be found [here](https://github.com/mikef80/quotesnap-fe) and the backend repo can be foudn [here](https://github.com/mikef80/quotesnap-be).
+- I've been a part of a 6-person team that created a React Native app, powered by a MongoDB backend. This was for our final project.
+    - The frontend repo can be found [here](https://github.com/mikef80/quotesnap-fe).
+    - The backend repo can be foudn [here](https://github.com/mikef80/quotesnap-be).
 
 <br />
 
